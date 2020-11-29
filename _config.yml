@@ -31,6 +31,14 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jordannewberry21.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  jordanNewberry21
+phone: (615) 456-3055
+street_address: 4192 Oxford St. N
+city: Shoreview
+state: MN
+zip_code: 55126
+linkedin_url: https://www.linkedin.com/in/jordan-newberry-3174a31bb/
+github_url: https://github.com/jordanNewberry21
+instagram_url: https://www.instagram.com/namesarehard_/
 
 # Build settings
 theme: minima
