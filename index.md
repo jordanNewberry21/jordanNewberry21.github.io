@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Home
 landing-title: 'Hi, my name is Jordan'
 description: null
