@@ -70,7 +70,24 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="https://quiet-fjord-07630.herokuapp.com/" class="image">
+			<img src="{% link assets/images/wedding-gallery.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>a Wedding Story</h3>
+				</header>
+				<p>I made this project during my classes at Prime Digital Academy. I thought it would be a nice way to use the new skills I'm learning to show some appreciation to my wife. There are some cues to show the user to click on the image to show a description behind the picture. You scroll down and each picture becomes part of a simple short story about my life. There is a heart-shaped button for each picture to click on if you like it. </p>
+				<ul class="actions">
+					<li><a href="https://github.com/jordanNewberry21/react-gallery" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
+
 
 <!-- Three -->
 <section id="three">
