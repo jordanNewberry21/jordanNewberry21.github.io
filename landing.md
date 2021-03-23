@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>What I've been up to</h2>
 		</header>
-		<p>I began learning to code like many people, by doing all the free tutorials I could get my hand on. First I learned some HTML tags, then I learned how to manipulate them with CSS. Then I picked up some javaScript, and learned how to use
+		<p>I began learning to code like many people, by doing all the free tutorials I could get my hands on. First I learned some HTML tags, then I learned how to manipulate them with CSS. Then I picked up some JavaScript, and learned how to use
 		jQuery to make a dynamic web-page. That's just how it started, check out what I'm up to lately.</p>
 	</div>
 </section>
@@ -31,7 +31,7 @@ nav-menu: true
 				<header class="major">
 					<h3>To-Do List App</h3>
 				</header>
-				<p>I built this app as part of a class project. I used node / express for the server, and used postgreSQL and pg for the database. The client-side code was built using javaScript with jQuery, and styled with bootstrap / vanilla CSS. I think it's a fun little app that looks cool. I deployed it with Heroku and I actually like to keep it loaded up on my phone. Click on the picture to see it in action on Heroku. Click the button to view the Github repo.</p>
+				<p>I built this app as part of a class project. This was the first full-stack project I created with React, and I was really proud of it. I used node / express for the server, and used postgreSQL and pg for the database. The client-side code was built using JavaScript with jQuery, and styled with bootstrap / vanilla CSS. I think it's a fun little app that looks cool, too! I deployed it with Heroku and I actually like to keep it loaded up on my phone, still using it to keep track of my daily tasks. Click on the picture to see it in action on Heroku. Click the button to view the Github repo.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/jordanNewberry21/weekend-sql-to-do-list" class="button">Learn more</a></li>
 				</ul>
