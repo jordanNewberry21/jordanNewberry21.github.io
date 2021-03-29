@@ -39,17 +39,17 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://limitless-island-65493.herokuapp.com/" class="image" target="_blank">
-			<img src="{% link assets/images/calc-1.png %}" alt="" data-position="top center" />
+		<a href="https://quiet-fjord-07630.herokuapp.com/" class="image">
+			<img src="{% link assets/images/wedding-gallery.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Server-Side Calculator</h3>
+					<h3>a Wedding Story</h3>
 				</header>
-				<p>This app was built to showcase my understanding of how data is communicated between the client and the server. The instructions for this project were to make sure that all the calculations were computed on the server with data from the client. The calculator itself only handles simple math equations, but it felt really good to get this one up and running. Click on the photo to see it in action on Heroku. Click the button to view the Github repo.</p>
+				<p>I made this project during my classes at Prime Digital Academy. I thought it would be a nice way to use the new skills I'm learning to show some appreciation to my wife. There are some cues to show the user to click on the image to show a description behind the picture. You scroll down and each picture becomes part of a simple short story about my life. There is a heart-shaped button for each picture to click on if you like it. </p>
 				<ul class="actions">
-					<li><a href="https://github.com/jordanNewberry21/JQ-server-side-calculator" class="button">Learn more</a></li>
+					<li><a href="https://github.com/jordanNewberry21/react-gallery" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
