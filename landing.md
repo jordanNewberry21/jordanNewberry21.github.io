@@ -63,7 +63,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Pet Hotel Project</h3>
 				</header>
-				<p>This is another fun one I did for school. We had a short week so our instructors decided it would be fun to teach us python for a week. This one was really challenging, even as a group. We used python for the back-end server language, and had to figure out how to get that to communicate with jQuery ajax functions AND postgreSQL. It was a bit of a head-scratcher, but we got it to work, and I'm really happy with the finished product.</p>
+				<p>This is another fun one I did for school. We had a short week so our instructors decided it would be fun to teach us python for a week. This one was really challenging, even as a group. We used python for the back-end server language, and had to figure out how to get that to communicate with jQuery ajax functions AND postgreSQL. It was a bit of a head-scratcher, but we got it to work, and I'm really happy with the finished product. This one isn't deployed anywhere, so if you click on the screen shot it will just take you to my Github page. The link below will take you to the repository for this project.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/jordanNewberry21/vatti-pet-hotel-1" class="button">Learn more</a></li>
 				</ul>
@@ -71,17 +71,17 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://quiet-fjord-07630.herokuapp.com/" class="image">
-			<img src="{% link assets/images/wedding-gallery.png %}" alt="" data-position="25% 25%" />
+		<a href="https://nameless-waters-16508.herokuapp.com/#/home" class="image">
+			<img src="{% link assets/images/results-foundation.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>a Wedding Story</h3>
+					<h3>Results Foundation Grant Application Portal</h3>
 				</header>
-				<p>I made this project during my classes at Prime Digital Academy. I thought it would be a nice way to use the new skills I'm learning to show some appreciation to my wife. There are some cues to show the user to click on the image to show a description behind the picture. You scroll down and each picture becomes part of a simple short story about my life. There is a heart-shaped button for each picture to click on if you like it. </p>
+				<p>I worked on this project as part of a group of 4 students. This was our final project at Prime Digital Academy that we created - pro-bono - for a real client, the Remax Results Foundation. This project was a 4-week Agile sprint, with one week spent planning, two weeks writing code, and an additional week for deployment and documentation. Out of everything I built while attending Prime, this is the project I believe I learned the most from. I had a big hand in writing all the queries for the initial set up of the database. I learned how to create dynamic input fields with validation, and how to asynchronously insert that dynamic data into the database properly. I learned how to collaborate on a team while working remotely, and how to meet a deadline. You can check out a test version of the app that I deployed to Heroku by clicking on the image. The repository is linked below.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/jordanNewberry21/react-gallery" class="button">Learn more</a></li>
+					<li><a href="https://github.com/jordanNewberry21/project-finale" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
